@@ -2,3 +2,22 @@ baseURL = 'https://hotpotcookie.github.io/'
 languageCode = 'en-us'
 title = 'hotpotcookie'
 theme = 'hugo-book'
+
+disablePathToLower = true
+enableGitInfo = true
+
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'auto'
+  BookSearch = true
+
+[menu]
+[[menu.after]]
+  name = "GitHub"
+  url = "https://github.com/hotpotcookie"
+  weight = 10  
+[[menu.after]]
+  name = "Docker Hub"
+  url = "https://hub.docker.com/repositories"
+  weight = 10  
