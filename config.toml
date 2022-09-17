@@ -12,6 +12,18 @@ enableGitInfo = true
   BookTheme = 'auto'
   BookSearch = true
 
+[languages]
+[languages.id]
+  languageName = 'Indonesian 🌷'
+  contentDir = 'content.id'
+  weight = 1
+
+[languages.en]
+  languageName = 'English 🌱'
+  contentDir = 'content.en'
+  weight = 1
+
+
 [menu]
 [[menu.after]]
   name = "GitHub"

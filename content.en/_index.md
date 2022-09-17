@@ -42,7 +42,6 @@ modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
 {{< /columns >}}
 
 ---
-hotpotcookie |
 [🐱 linkedin](http://localhost:1313/landing/) 
 [🐦 twitter](http://localhost:1313/landing/)
 [🐨 youtube](http://localhost:1313/landing/)
