@@ -1,7 +1,7 @@
 ---
 menu:
   after:
-    name: jurnal
+    name: artikel
     weight: 1
-title: Jurnal
+title: Artikel
 ---
