@@ -1,4 +1,41 @@
 baseURL = 'https://hotpotcookie.github.io/'
 languageCode = 'en-us'
-title = 'hotpotcookie'
+title = 'hotpotcookie 🛡'
 theme = 'hugo-book'
+
+disablePathToLower = true
+enableGitInfo = true
+
+[params]
+  # (Optional, default light) Sets color theme: light, dark or auto.
+  # Theme 'auto' switches between dark and light modes based on browser/os preferences
+  BookTheme = 'auto'
+  BookSearch = true
+  BookRepo = 'https://github.com/hotpotcookie/hotpotcookie.github.io' 
+  BookDateFormat = '02-01-2006'  
+
+[languages]
+[languages.id]
+  languageName = 'Indonesian 🌷'
+  contentDir = 'content.id'
+  weight = 1
+
+[languages.en]
+  languageName = 'English 🌱'
+  contentDir = 'content.en'
+  weight = 1
+
+[menu]
+[[menu.after]]
+  name = "GitHub"
+  url = "https://github.com/hotpotcookie"
+  weight = 10  
+[[menu.after]]
+  name = "Docker Hub"
+  url = "https://hub.docker.com/repositories"
+  weight = 10  
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
