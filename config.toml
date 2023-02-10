@@ -14,17 +14,6 @@ enableGitInfo = true
   BookRepo = 'https://github.com/hotpotcookie/hotpotcookie.github.io' 
   BookDateFormat = '02-01-2006'  
 
-[languages]
-[languages.id]
-  languageName = 'Indonesian 🌷'
-  contentDir = 'content.id'
-  weight = 1
-
-[languages.en]
-  languageName = 'English 🌱'
-  contentDir = 'content.en'
-  weight = 1
-
 [menu]
 [[menu.after]]
   name = "GitHub"

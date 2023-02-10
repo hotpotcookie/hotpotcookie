@@ -2,9 +2,9 @@
 weight: 1
 ---
 
-<h1>Biografi</h1>
+<h1>Landasan</h1>
 
-**sejak** awal tahun 2020, kami mulai disiplin untuk membuat projek dari ilmu yang dipelajari, yang terkait keamanan siber, sistem jaringan, serta pemrograman. **belakangan** ini, kami memiliki keinginan yang besar untuk mendokumentasi seluruh kegiatan, tugas, serta informasi yang didapatkan, dalam format yang lebih terstruktur untuk dapat didistribusikan ke masyarakat secara lebih baik
+**pada** awal tahun 2020, kami mulai disiplin untuk membuat projek yang terkait keamanan siber, sistem jaringan, serta pemrograman. **belakangan** ini, kami memiliki keinginan yang besar untuk mendokumentasi seluruh kegiatan, tugas, serta informasi yang didapatkan, dalam format yang lebih terstruktur untuk dapat didistribusikan ke masyarakat secara lebih baik
 
 {{< columns >}}
 <h2>visi</h2>
@@ -13,12 +13,12 @@ weight: 1
 <--->
 <h2>misi</h2>
 
-**mendukung** serta menyalurkan minat dan bakat untuk berkontribusi dalam organisasi pada sisi publikasi
+**mendukung** serta menyalurkan minat dan bakat untuk berkontribusi dalam berorganisasi, terutama pada sisi publikasi
 {{< /columns >}}
 
-<h2 align="center" style="margin: 16px 0px;">barisan depan</h2>
+<h2 align="center" style="margin: 16px 0px;">bastion</h2>
 <p align="center">
-<strong>berikut</strong> merupakan seluruh kawan yang ikut membantu dalam membangun organisasi ini untuk dapat berfungsi sebagaimana peran yang diimpikan. bergabung <a href="https://forms.gle/oxqe22JCfiWBu87E7">disini</a> 👈
+<strong>berikut</strong> merupakan seluruh kawan yang ikut membantu dalam membangun organisasi ini untuk dapat berfungsi sebagaimana yang diimpikan. bergabung <a href="https://forms.gle/oxqe22JCfiWBu87E7">disini</a> 👈
 
 </p>
 
