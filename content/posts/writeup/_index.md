@@ -1,7 +1,7 @@
 ---
 menu:
   after:
-    name: artikel
+    name: Write-Up
     weight: 1
-title: Artikel
+title: Write-Up
 ---
