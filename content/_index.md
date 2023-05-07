@@ -1,18 +1,16 @@
 ---
-title: "Awal"
-date: 2022-09-16T13:38:21+07:00
+title: "Home"
 type: docs
+bookToc: false
 ---
 
-<h1>Pendahuluan</h1>
+<h1>welcome bacc, &nbsp (つˆ⌣ˆ)つ ⊂(・﹏・⊂)</h1>
 <img src="../../../images/home-banner.png" alt="cookie-banner" width="100%"/></a>
 
-**hotpotcookie** merupakan organisasi non-profit dengan dedikasi untuk mengembangkan minat publikasi dalam menyebarkan pengetahuan terhadap keamanan siber, ataupun sistem informasi secara umum kepada masyarakat 🛡
+**hotpotcookie** is a non-bloated information security portal designated to share any open-source write-ups, findings, journals, and simple blog posts. **therefore**, all of your contributions may impact others in a good way, for they can learn something new & exciting about this vast virtual world. **so** let the boi cookin 👨‍🍳
 
 {{< hint info >}}
-portal ini berisikan koleksi demonstrasi & penjelasan eksploitasi, jurnal pengerjaan CTF, keamanan sistem secara general, serta pembahasan terkait berita keamanan siber
+**the** navigation bar on the left side introduces you to what this portal is about, as well as the materials in [blog](posts/blog) for not-that-daily readings update, [paper](posts/paper) for scientific/academic researchs & [write-up](posts/writeup) for any walkthrough or findings in CTFs challenges. **not** only that, but we also developed some [payloads](docs/gg/payload/) and [pentest tool](docs/gg/pentest-tool/) for you to check out that hopefully would suit your needs
 {{< /hint >}}
-
-**adapun** kolom navigasi pada sisi kiri yang dapat digunakan untuk mempelajari seputar organisasi *hotpotcookie*, serta membaca koleksi tulisan dalam [blog](posts/blogs) ataupun rangkuman berita dalam [artikel](posts/articles)
 
 ---
