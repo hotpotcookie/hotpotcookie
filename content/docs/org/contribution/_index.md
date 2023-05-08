@@ -7,12 +7,11 @@ bookToc: false
 <h1>thank you kind sir</h1>
 
 ```bash
-sudo apt-get update
-sudo systemctrl restart apache.service 
+$ sudo apt-get update
+$ sudo systemctrl restart apache.service 
 ```
 berikut merupakan konten dalam file ```config.toml```
-```toml {linenos=inline,hl_lines=[0,"0-1"],linenostart=0}
-config.toml
+```toml {linenos=inline, linenostart=1}
 baseURL = 'https://hotpotcookie.github.io/'
 languageCode = 'en-us'
 title = 'hotpotcookie ʕ •ᴥ•ʔ'
@@ -55,8 +54,7 @@ enableGitInfo = true
       unsafe = true
 ```
 
-```bash {linenos=inline,hl_lines=[0,"0-1"],linenostart=0}
-/content/docs/org/contribution/_index.md
+```bash {linenos=inline,linenostart=1}
 #!/bin/bash
 #-----
 runvm() {
