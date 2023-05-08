@@ -15,7 +15,7 @@ enableGitInfo = true
 
 [menu]
 [[menu.after]]
-  name = "&nbsp"
+  name = "&nbsp;"
   url = ""
   weight = 30
 
