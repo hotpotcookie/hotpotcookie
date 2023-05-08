@@ -1,5 +1,4 @@
 ---
-author: "Michael Henderson"
 date: 2023-05-04
 linktitle: Embedding Log4Shell to BadSUB for Remote Access Trojan
 menu:
@@ -11,6 +10,7 @@ title: Creating a New Theme
 weight: 1
 tags: ["Vulnerability Analysis", "Exploitation", "CVE-2022-44877"]
 categories: ["Proof-of-Concept"]
+type: posts
 ---
 ## 1.1 aaa
 adadawd
@@ -35,3 +35,5 @@ aa
 
 ## 2.1 aaa
 aaaaa
+
+---

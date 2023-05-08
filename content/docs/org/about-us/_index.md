@@ -37,7 +37,6 @@ bookToc: false
 **N** 6°17'1.746" | **S** 106°48'17.507" <br>
 <span><strong>hotpotcookie</strong>@proton.me</span><br>
 
-<span>© 2023 <span style="color: #f1fa8c">**hotpotcookie**</span> - built using [Hugo](https://github.com/alex-shpak/hugo-book) and [Dracula](https://draculatheme.com/) with &nbsp<span style="color: #ff79c6">❤</span></span>
-
+<span style="font-size: 0.7em;">© 2023 <span style="color: #f1fa8c"><strong>hotpotcookie</strong></span> - built using [Hugo](https://github.com/alex-shpak/hugo-book) and [Dracula](https://draculatheme.com/) with <span style="color: #ff79c6">♡</span></span>
 
 ---
