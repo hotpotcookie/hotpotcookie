@@ -13,27 +13,6 @@ enableGitInfo = true
   BookDateFormat = '02-01-2006'  
   favicon = '/favicon.png'
 
-[menu]
-[[menu.after]]
-  name = "&nbsp;"
-  url = ""
-  weight = 30
-
-[[menu.after]]
-  name = "GitHub"
-  url = "https://github.com/hotpotcookie"
-  weight = 32
-
-[[menu.after]]
-  name = "Instagram"
-  url = "https://www.instagram.com/hotpotcookie/"
-  weight = 33
-
-[[menu.after]]
-  name = "YouTube"
-  url = "https://www.youtube.com/@hotpotcookie/"
-  weight = 34
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
