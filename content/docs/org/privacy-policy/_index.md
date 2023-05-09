@@ -5,7 +5,7 @@ bookToc: false
 
 <h1>three-way handshake</h1>
 
-**as** white hats, by representing the *hotpotcookie*, we don't disclose any private or credential pieces of information of any parties involved in any form of data aggregation, as this site doesn't collect any user's data. **for** further development, *hotpotcookie* site also doesn't integrate with [Google Analytics](https://support.google.com/analytics/answer/10089681) by storing cookies anonymously and will not be intended to
+**as** white hats, by representing the *hotpotcookie*, we don't disclose any private or credential pieces of information of any parties involved in any form of data aggregation, as this site doesn't collect any user's data. **for** further notice, *hotpotcookie* site is also not integrated with [Google Analytics](https://support.google.com/analytics/answer/10089681) by storing cookies anonymously and will not be intended to
 
 
 **the** below describes from what sources of information, study cases or problems we conducted, which also addresses how we handle that information within this site
@@ -17,7 +17,7 @@ bookToc: false
 - **if** a product vendor is unable to or chooses not to, patch a particular security flaw, we would be glad to offer some recommendations to the vendor to meet some effective workarounds
 {{< /expand >}}
 
-{{< expand "journal citation" "▼・ᴥ・▼" >}}
+{{< expand "journal & book citation" "▼・ᴥ・▼" >}}
 - **we** collects personal information that may include name, email address, affiliation, or other relevant information and may be using it for our journal citation service while not sharing it with any third-party organizations
 - **we** reserve the right to remove any citation from our website that we determine to violate our originality policy or otherwise inappropriate
 {{< /expand >}}
@@ -27,11 +27,9 @@ bookToc: false
 {{< /expand >}}
 
 {{< expand "internet in general" "▼・ᴥ・▼" >}}
-- **when** citing sources from internet sites, we may collect personal information such as the author’s name, website URL, and the date of publication
-- **we** only collect this information to accurately cite the source and provide proper attribution to the author
+- **when** citing sources from internet sites, we may collect personal information such as the author’s name, website URL, and the date of publication. **that** said, we only collect this information to accurately cite the source and provide proper attribution to the author
 {{< /expand >}}
 
 If you have any questions or concerns about our privacy policy or our handling of your personal information, please contact us using the contact information provided
-
 
 ---

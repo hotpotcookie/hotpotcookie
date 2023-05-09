@@ -4,7 +4,7 @@ type: docs
 bookToc: false
 ---
 
-<img src="../../../images/home-banner.png" alt="cookie-banner" width="100%"/></a>
+<img src="/home-banner.webp" alt="cookie-banner" width="100%" style="border-radius: 0.5rem;"/></a>
 
 **hotpotcookie** is a non-bloated information security portal designated to share any open-source write-ups, findings, journals, and simple blog posts. **therefore**, all of your contributions may impact others in a good way, for they can learn something new & exciting about this vast virtual world. **so** let the boi cookin 👨‍🍳
 

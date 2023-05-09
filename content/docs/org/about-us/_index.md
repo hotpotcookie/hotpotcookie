@@ -26,10 +26,10 @@ bookToc: false
 </p>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/muhammadnurirsyad/"><img src="../../../images/profile/irsyad.png" alt="drawing" width="24%"/></a>
-	<a href="https://www.linkedin.com/in/ihsan-zahardjil-949720193/"><img src="../../../images/profile/ikhsan.png" alt="drawing" width="24%"/></a>
-	<a href="https://www.linkedin.com/in/muhammadnurilham/"><img src="../../../images/profile/ilham.png" alt="drawing" width="24%"/></a>
-	<a href="https://www.linkedin.com/in/hanifsalsabilk/"><img src="../../../images/profile/hanif.png" alt="drawing" width="24%"/></a>	
+	<a href="https://www.linkedin.com/in/muhammadnurirsyad/"><img src="/images/profile/irsyad.webp" alt="drawing" width="24%"/></a>
+	<a href="https://www.linkedin.com/in/ihsan-zahardjil-949720193/"><img src="/images/profile/ikhsan.webp" alt="drawing" width="24%"/></a>
+	<a href="https://www.linkedin.com/in/muhammadnurilham/"><img src="/images/profile/ilham.webp" alt="drawing" width="24%"/></a>
+	<a href="https://www.linkedin.com/in/hanifsalsabilk/"><img src="/images/profile/hanif.webp" alt="drawing" width="24%"/></a>	
 </p>
 
 <h1 style="margin: 32px 0px 16px;">JKT ッ ID</h1>
@@ -37,11 +37,11 @@ bookToc: false
 <p style="margin-bottom: 0;"><strong>N</strong> 6°17'1.746" | <strong>S</strong> 106°48'17.507" <br>
 <span><strong>hotpotcookie</strong>@proton.me</span></p>
 
-<p style="margin-top: -0.4em; margin-bottom: 0;">
+<p style="margin-top: -0.4em; margin-bottom: 0; font-size: 0.85em;">
 	<a style="text-decoration: none;" href="https://www.instagram.com/hotpotcookie" target="_blank" rel="noopener noreferrer"><span style="font-size: 1em; color: #ff79c6"><strong>instagram</strong></span></a> //
 	<a style="text-decoration: none;" href="https://www.linkedin.com/company/hotpotcookie/" target="_blank" rel="noopener noreferrer"><span style="font-size: 1em; color: #8be9fd"><strong>linkedin</strong></span></a> //	
 	<a style="text-decoration: none;" href="https://www.youtube.com/@hotpotcookie/" target="_blank" rel="noopener noreferrer"><span style="font-size: 1em; color: #fc6f6f"><strong>youtube</strong></span></a> //
-	<a style="text-decoration: none;" href="https://www.github.com/hotpotcookie/" target="_blank" rel="noopener noreferrer"><span style="font-size: 1em; color: #a3ffbc"><strong>github</strong></span></a> //					
+	<a style="text-decoration: none;" href="https://www.github.com/hotpotcookie/" target="_blank" rel="noopener noreferrer"><span style="font-size: 1em; color: #a3ffbc"><strong>github</strong></span></a>					
 </p>
 
 <span style="font-size: 0.7em;">© 2023 <span style="color: #f1fa8c"><strong>hotpotcookie</strong></span> - built using [Hugo](https://github.com/alex-shpak/hugo-book) and [Dracula](https://draculatheme.com/) with <span style="color: #ff79c6">♡</span></span>
