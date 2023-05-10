@@ -43,6 +43,9 @@ bookToc: false
 	<a style="text-decoration: none;" href="https://www.youtube.com/@hotpotcookie/" target="_blank" rel="noopener noreferrer"><span style="font-size: 1em; color: #fc6f6f"><strong>youtube</strong></span></a> //
 	<a style="text-decoration: none;" href="https://www.github.com/hotpotcookie/" target="_blank" rel="noopener noreferrer"><span style="font-size: 1em; color: #a3ffbc"><strong>github</strong></span></a>					
 </p>
+<p style="margin-top: -0.4em; margin-bottom: 0; font-size: 0.85em;">
+	opening a donation support at <a style="text-decoration: none;" href="https://saweria.co/hotpotcookie" target="_blank" rel="noopener noreferrer"><span style="font-size: 1em; color: #ffb86c"><strong>saweria.co</strong></span></a> 
+</p>
 
 <span style="font-size: 0.7em;">© 2023 <span style="color: #f1fa8c"><strong>hotpotcookie</strong></span> - built using [Hugo](https://github.com/alex-shpak/hugo-book) and [Dracula](https://draculatheme.com/) with <span style="color: #ff79c6">♡</span></span>
 
