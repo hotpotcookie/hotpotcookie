@@ -71,7 +71,7 @@ $ git remote add upstream https://github.com/hotpotcookie/hotpotcookie.git
   ```markdown
 $ git add content/posts/blog/embedding-log4shell-to-badusb-for-rat.md
 $ git add static/images/data/blog/eltbfrat-*.webp
-$ git commit -m "adding my image resources of the post"
+$ git commit -m "adding my content with its image resources"
 ```
   {{< /tab >}}
 
