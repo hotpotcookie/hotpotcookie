@@ -14,7 +14,7 @@ bookToc: false
 
 - **the** submission should be written in a ```.md``` format
 - **what** count as a contribution are creating content, fixing bugs & typos, or adding any minor or major significant improvement
-- **submitted** images should be in a ```.webp``` format, ideally less than around ```100,0 KiB``` . **the** naming template for those images should be defined by the post's ```id```, such as ```[post-id]-[n].webp``` with ```[n]``` as the n-th images that you provided and stored in ```/main/static/images/data/[content]/```
+- **submitted** images should be in a ```.webp``` format, ideally less than around ```100,0 KiB``` collectively for a single post. **the** naming template for those images should be defined by the post's ```id```, such as ```[post-id]-[n].webp``` with ```[n]``` as the n-th images that you provided and stored in ```/main/static/images/data/[content]/```
 - **the** usage of [asciinema](https://asciinema.org/) are preferable as it gives clarity to the context of what the commands are cookin
 
 ## local repository
@@ -41,9 +41,9 @@ $ git remote add upstream https://github.com/hotpotcookie/hotpotcookie.git
   {{< tab "Blog" >}}
   **a** blog is where you can post your ideas, news & articles, or projects and concepts that you've been working on while being too technical is not mandatory in this case. **there** are 3 main ```categories``` of the blog's content that are being used on this site: 
 
-  - ***response***, a simple post that is written as a form of response to a question that focuses on providing an easy-to-understand answer. **it** is recommended to be anywhere between 1350 to 1500 words
-  - ***staple***, general & shareable posts that provide more information on the subject may contain tips, a how-to guide, and well-depth responses. **it** is recommended to be more than 2000 words
-  - ***pillar***, covering all the aspects of the given topic in a detailed manner, which makes it the heaviest content among the three. **it** is recommended to be more than 3000 words
+  - ***response***, simple post that is written as a form of response that focuses on providing an easy-to-understand answer
+  - ***staple***, general & shareable post that provide more information on the subject, which may contain tips, a how-to guide, and well-depth responses
+  - ***pillar***, post that covers all the aspects of the given topic in a detailed manner and may heavily depend on using codeblocks for snippets, which makes it the heaviest content among the three
   - **proof-of-concept**, a complementary tag for a pillar, which gives the context that your post contains any of your development that may bring some form of novelty about the topic itself
 
   **for** this example, you may post a content titled *"Embedding Log4Shell to BadSUB for Remote Access Trojan"*. **the** file name of your post should be the shortened form of the title, such as ```embedding-log4shell-to-badusb-for-rat.md```. **here** is a mockup template of the file for you to modify it:
@@ -57,14 +57,14 @@ $ git remote add upstream https://github.com/hotpotcookie/hotpotcookie.git
   type: posts // mandatory value for all form of content
   ---
 
-  ##  Heading-2 // level-2 heading is preferred to start the blog since the title already used h1
-  ### Heading-3 // it is recommended not to exceed the level-3 heading as it tends to be hard to read the table of contents
+  ##  heading-2 // level-2 heading is preferred to start the blog since the title already used h1
+  ### heading-3 // it is recommended not to exceed the level-3 heading as it tends to be hard to read the table of contents
   ![cat](/images/data/blog/eltbfrat-1.webp) // (1/2) ways of importing image
   <img src="/images/data/blog/eltbfrat-2.webp" alt="cat"/> // (2/2) ways of importing image
   
-  ### References // level-3 heading for reference on the last section of the post
+  ## references // level-2  heading for reference on the last section of the post
   - [title - site](URL) // list of all the sites that you may cite or use
-  - [Introduction to Log4j - Medium](https:..) // citation example from the format above
+  - [Introduction to Log4j - **Medium***](https:..) // citation example from the format above
   ```
   **when** all the needed files are ready, including the post and the images, you can finally stage all those resources and commit it. **here** is the snippet with the relative path to the corresponding files
 
