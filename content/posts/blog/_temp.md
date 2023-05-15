@@ -1,12 +1,12 @@
 ---
-id: eltbfrat
-date: 2023-05-04
-linktitle: "Embedding Log4Shell to BadSUB for Remote Access Trojan"
-tags: ["Vulnerability Analysis", "Exploitation", "CVE-2022-44877"]
-categories: ["Proof-of-Concept", "Pillar"]
+id: suoofibs
+date: 2023-04-14
+linktitle: "_temp"
+tags: ["Bash", "Scripting"]
+categories: ["Staple"]
 type: posts
 ---
-<img src="/home-banner.webp" alt="cookie-banner" width="100%" style="border-radius: 0.5rem;"/></a>
+<img src="/images/data/blog/flower-1.webp" alt="cookie-banner" width="100%" style="border-radius: 0.5rem;"/></a>
 
 ---
 
@@ -21,7 +21,7 @@ undergo
 
 <div class="custom table markdown-inner">
 
-| no      | description | syntax      | description | syntax      | description |
+| #      | description | syntax      | description | syntax      | description |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1      | Title   awdawdawd awdawdawdaaw dadadawdawd    | Header      | Title   awdawdawd awdawdawdaaw dadadawdawd       | Header      | Title       |
 | 2   | Text        | Header      | Title       | Header      | Title       |
