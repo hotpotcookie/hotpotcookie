@@ -6,7 +6,7 @@ bookToc: false
 
 <h1>thank you kind sir</h1>
 
-**as** an open-source organization, *hotpotcookie* site offers three main contents for you to share your cool and edgy ideas of contents to the readers, which are [blog](/posts/blog), [paper](/posts/paper), and [write-up](/posts/writeup). **your** submission will take place online on our site at least within 48 hours after your ```commit``` since it requires proofreading from our internal team. **as** for the [payloads](/docs/gg/payload/) and [pentest tool](/docs/gg/pentest-tool/), it's going to be reviewed & tested first in a local lab within a whole week before merging it to the main arsenal
+**as** an open-source organization, *hotpotcookie* site offers three main contents for you to share your cool and edgy ideas of contents to the readers, which are [blog](/posts/blog), [paper](/posts/paper), and [write-up](/posts/writeup). **your** submission will take place online on our site at least within 48 hours after your ```commit``` since it requires proofreading from our internal team. **as** for the [payloads](/docs/gg/payload/) and [pentest tool](/docs/gg/pentest-tool/), it's going to be reviewed & tested first in a local lab within a whole week before merging it to the main arsenal.
 
 ## consider the following
 
@@ -14,12 +14,12 @@ bookToc: false
 
 - **the** submission should be written in a ```.md``` format
 - **what** count as a contribution are creating content, fixing bugs & typos, or adding any minor or major significant improvement
-- **submitted** images should be in a ```.webp``` format, ideally less than around ```100,0 KiB``` collectively for a single post. **the** naming template for those images should be defined by the post's ```id```, such as ```[post-id]-[n].webp``` with ```[n]``` as the n-th images that you provided and stored in ```/main/static/images/data/[content]/```
-- **the** usage of [asciinema](https://asciinema.org/) are preferable as it gives clarity to the context of what the commands are cookin
+- **submitted** images should be in a ```.webp``` format, ideally less than around ```800,0 KiB``` collectively for a single post. **the** naming template for those images should be defined by the post's ```id```, such as ```[post-id]-[n].webp``` with ```[n]``` as the n-th images that you provided and stored in ```/main/static/images/data/[content]/```
+- **the** usage of [asciinema](https://asciinema.org/) with [agg](https://github.com/asciinema/agg) are preferable as it gives clarity to the context of what the commands are cookin
 
 ## local repository
 
-**once** your have forked [hotpotcookie](https://github.com/hotpotcookie/hotpotcookie) locally, the last thing you wanted to do is to submit the posts via pull requests. **for** a start, we will clone the forked repo and switch the branch from ```main``` to ```contrib```. **your** push on branch ```contrib```, later on, will be merged to the main repository for your posts to live on-site
+**once** your have forked [hotpotcookie](https://github.com/hotpotcookie/hotpotcookie) locally, the last thing you wanted to do is to submit the posts via pull requests. **for** a start, we will clone the forked repo and switch the branch from ```main``` to ```contrib```. **your** push on branch ```contrib```, later on, will be merged to the main repository for your posts to live on-site.
 
 ```markdown
 $ git clone https://github.com/[username]/hotpotcookie.git
@@ -30,7 +30,7 @@ $ git remote add upstream https://github.com/hotpotcookie/hotpotcookie.git
 
 ## markdown template & git staging
 
-**as** we refer from those points before, here are some base ```.md``` template files to give you some contexts for each type of content that you might contribute to, check them out
+**as** we refer from those points before, here are some base ```.md``` template files to give you some contexts for each type of content that you might contribute to, check them out.
 
 {{< hint warning >}}
 **please** verify that each file is placed to the corressponding directory, as it will significantly minimize the work on fixing the file path before rebuilding the site. **you** can follow the commands below on handling each type of file that is going to be staged
@@ -66,7 +66,7 @@ $ git remote add upstream https://github.com/hotpotcookie/hotpotcookie.git
   - [title - site](URL) // list of all the sites that you may cite or use
   - [Introduction to Log4j - **Medium***](https:..) // citation example from the format above
   ```
-  **when** all the needed files are ready, including the post and the images, you can finally stage all those resources and commit it. **here** is the snippet with the relative path to the corresponding files
+  **when** all the needed files are ready, including the post and the images, you can finally stage all those resources and commit it. **here** is the snippet with the relative path to the corresponding files.
 
   ```markdown
 $ git add content/posts/blog/embedding-log4shell-to-badusb-for-rat.md
@@ -83,7 +83,7 @@ $ git commit -m "adding my content with its image resources"
 
 {{< /tabs >}}
 
-**as** for your contribution profile to appearing on the [about us](/docs/org/about-us/) page, you can submit your [villager](https://meiker.io/play/11374/online.html) in ```/main/static/images/profile``` with your [GitHub](https://github.com) username as the file name of it, such as ```[username].webp```. **notice** that this step is one time only, unless you wanted to change it later on
+**as** for your contribution profile to appearing on the [about us](/docs/org/about-us/) page, you can submit your [villager](https://meiker.io/play/11374/online.html) in ```/main/static/images/profile``` with your [GitHub](https://github.com) username as the file name of it, such as ```[username].webp```. **notice** that this step is one time only, unless you wanted to change it later on.
 
 ```markdown
 $ git add static/images/profile/[username].webp
@@ -91,7 +91,7 @@ $ git commit -m "adding my villager avatar"
 ```
 ## pushing your commits
 
-**once** all the files have been staged and committed, the last thing to do is push your commits to the remote branch on the main repository. **that** way, we can review and merge it if it passes the criteria that are mandatory or needed
+**once** all the files have been staged and committed, the last thing to do is push your commits to the remote branch on the main repository. **that** way, we can review and merge it if it passes the criteria that are mandatory or needed.
 
 ```markdown
 $ git push -u origin contrib
