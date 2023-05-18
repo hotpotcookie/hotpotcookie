@@ -6,7 +6,7 @@ tags: ["Bash", "Scripting"]
 categories: ["Staple"]
 type: posts
 ---
-<img src="/images/data/blog/flower-1.webp" alt="cookie-banner" width="100%" style="border-radius: 0.5rem;"/></a>
+<img src="/images/data/blog/suoofibs-banner.webp" alt="cookie-banner" width="100%" style="border-radius: 0.5rem;"/></a>
 
 ---
 
@@ -32,6 +32,9 @@ undergo
 
 </div>
 
-aaa
+{{< hint info >}}
+**disclosure**: there is **one** affiliate link below, and we may receive commissions through purchases made and verified visits to the product(s) we highly recommend. **we** won’t put anything on this page that we haven’t verified or personally used
+
+{{< /hint >}}
 
 ---
